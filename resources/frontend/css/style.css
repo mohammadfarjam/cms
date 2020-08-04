@@ -1,0 +1,29 @@
+.bg_tr {
+    background: #ffffff;
+}
+
+.bg_tr_parent {
+    background: #15ffb5;
+}
+
+.bg_white {
+    background: white;
+}
+
+@font-face {
+    font-family: "Yekan";
+    src: url('public/css/Yekan.svg') format('svg');
+    src: url('public/css/Yekan.eot') format('embedded-opentype');
+    src: url('public/css/Yekan.ttf') format('truetype');
+    src: url('public/css/Yekan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'vazir';
+    src: url('public/css/Vazir.woff') format('woff');
+    src: url('public/css/Vazir.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal
+}
